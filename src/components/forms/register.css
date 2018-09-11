@@ -1,0 +1,28 @@
+.formr{
+  width:40%;
+  margin-top: 150px;
+  margin-left: 30%;
+}
+#inputr{
+  width: 100%;
+  margin-top: 20px;
+  cursor: pointer;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: solid 2px black;
+}
+#buttonr{
+  margin-top: 20px;
+  margin-left: 40%;
+  width: 150px;
+  height: 45px;
+  border-radius: 15px;
+  background: black;
+  color: white;
+  cursor: pointer;
+}
+#pr{
+  text-align: center;
+  margin-top: 20px;
+}

@@ -1,0 +1,25 @@
+header{
+  background-color: black;
+  color: white;
+}
+h3{
+  font-size: 100px;
+  text-align: center;
+  padding: 10px;
+  font-family: Baloo Tammudu;
+}
+nav ul li{
+  padding: 0px 0px 0px 15px;
+  display: inline-block;
+}
+ul li{
+  list-style-type: none;
+  text-align: right;
+}
+a{
+  color: black;
+}
+a:hover{
+  color: black;
+  text-decoration: none;
+}
